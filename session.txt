@@ -1,0 +1,9 @@
+
+R G B
+Red Green blue
+
+color -> css R G B
+
+
+ white : 255 255 255 
+black :0   0   0  
